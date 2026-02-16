@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1118",
+    "dni": "17909626-9",
+    "nombreCliente": "Javier Núñez Reyes",
+    "origen": "Santiago, Chile",
+    "destino": "Madrid, España",
+    "tipoViaje": "turismo",
+    "fechaSalida": "2026-02-24T22:00",
+    "fechaRegreso": "2026-02-26T23:00",
+    "fechaRegistro": "2026-02-16T23:02:41.161Z",
+    "estado": "pendiente",
+    "usuarioEmail": "agente@agencia.cl"
+  }
+]

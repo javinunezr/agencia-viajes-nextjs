@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1118",
+    "dni": "16414595-0",
+    "nombreCliente": "Esteban Castro Paredes",
+    "origen": "Santiago, Chile",
+    "destino": "Madrid, España",
+    "tipoViaje": "turismo",
+    "fechaSalida": "2025-09-15T10:00:00.000Z",
+    "fechaRegreso": "2025-12-21T17:00:00.000Z",
+    "fechaRegistro": "2025-08-25T16:35:24.000Z",
+    "estado": "pendiente",
+    "usuarioEmail": "agente@agencia.cl"
+  },
+  {
+    "id": "1119",
+    "dni": "12345678-9",
+    "nombreCliente": "Fabián Gamboa Martínez",
+    "origen": "Buenos Aires, Argentina",
+    "destino": "París, Francia",
+    "tipoViaje": "negocios",
+    "fechaSalida": "2025-10-10T08:00:00.000Z",
+    "fechaRegreso": "2025-10-20T20:00:00.000Z",
+    "fechaRegistro": "2025-09-01T10:15:30.000Z",
+    "estado": "en proceso",
+    "usuarioEmail": "test@agencia.com"
+  },
+  {
+    "id": "1120",
+    "dni": "98765432-1",
+    "nombreCliente": "Yasna Plaza Morales",
+    "origen": "Lima, Perú",
+    "destino": "Tokyo, Japón",
+    "tipoViaje": "turismo",
+    "fechaSalida": "2025-11-05T14:30:00.000Z",
+    "fechaRegreso": "2025-11-25T22:00:00.000Z",
+    "fechaRegistro": "2025-09-15T14:20:10.000Z",
+    "estado": "finalizada",
+    "usuarioEmail": "javier@test.com"
+  }
+]

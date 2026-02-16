@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1000000000001",
+    "email": "agente@agencia.cl",
+    "password": "$2a$10$0SEfoaYaSBs/iEcKt6WYDeff5ZMPIsxOc5mlzMEuUbpvCYagVus0e",
+    "rol": "agente",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1000000000002",
+    "email": "admin@agencia.cl",
+    "password": "$2a$10$0SEfoaYaSBs/iEcKt6WYDeff5ZMPIsxOc5mlzMEuUbpvCYagVus0e",
+    "rol": "agente",
+    "createdAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "1769377051404",
+    "email": "test@agencia.com",
+    "password": "$2a$10$auJUmPJROhybDRhdOLlw.OKctm6SF3MdzJx3hnnx22hIjsvV1LzIm",
+    "rol": "cliente",
+    "createdAt": "2026-01-25T21:37:31.404Z"
+  },
+  {
+    "id": "1769378865695",
+    "email": "javier@test.com",
+    "password": "$2a$10$9WTsG.LD16K5IpHhOcUMWeVz0UPlMAxVMqFqxqvN2IEd.wSmI4Vgq",
+    "rol": "cliente",
+    "createdAt": "2026-01-25T22:07:45.695Z"
+  }
+]
